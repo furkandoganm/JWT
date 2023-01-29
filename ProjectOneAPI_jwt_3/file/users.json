@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": "634009fa039cfa3afea8b319",
+      "creator_id": "63400152161bb33b00011dec",
+      "user_name": "furkand",
+      "e_mail": "fdogan@gmail.com",
+      "password": "12345.!",
+      "status": "godmin",
+      "database": "",
+      "collections": [
+        ""
+      ]
+    },
+    {
+      "id": "63418b6defe397423ede0d18",
+      "creator_id": "634009fa039cfa3afea8b319",
+      "user_name": "fdogan",
+      "e_mail": "fdogangazi@gmail.com",
+      "password": "12345.!",
+      "status": "admin",
+      "database": "collections",
+      "collections": [
+        "movie"
+      ]
+    },
+    {
+      "id": "63454d224c23bfdec66839a4",
+      "creator_id": "63418b6defe397423ede0d18",
+      "user_name": "ilker_5",
+      "e_mail": "ilk@er.com",
+      "password": "12345.!",
+      "status": "user",
+      "database": "films",
+      "collections": [
+        "liked"
+      ]
+    },
+    {
+      "id": "63469f4b1a5a873331224c5d",
+      "creator_id": "63418b6defe397423ede0d18",
+      "user_name": "furkan",
+      "e_mail": "fur@kan.com",
+      "password": "12345.!",
+      "status": "user",
+      "database": "moviesf",
+      "collections": [
+        "kaufman"
+      ]
+    }
+  ]
+}
